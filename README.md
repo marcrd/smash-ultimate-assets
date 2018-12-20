@@ -4,7 +4,7 @@ A set of freely shareable Smash assets to build out community tooling.
 
 ### Installing
 
-Simply run `npm i smash-ultimate-assets`
+Run `npm i smash-ultimate-assets`, clone or download the repository.
 
 ### Current Asset Support
 
