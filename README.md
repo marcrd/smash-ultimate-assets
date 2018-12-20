@@ -13,6 +13,10 @@ Run `npm i smash-ultimate-assets`, clone or download the repository.
 - [ ] Full Character Illustrations
 - [ ] UI/Misc Assets
 
+### TODO
+
+- [ ] Add an easy way to interface with assets: https://github.com/marcrd/smash-ultimate-assets/issues/6
+
 ### Contributing
 
 This repository follow standard git flow. Please do the following to contribute:
