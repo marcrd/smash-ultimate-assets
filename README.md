@@ -2,6 +2,10 @@
 
 A set of freely shareable Smash assets to build out community tooling.
 
+### Installing
+
+Simply run `npm i smash-ultimate-assets`
+
 ### Current Asset Support
 
 - [x] SVG and PNG stock icons
