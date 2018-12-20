@@ -33,3 +33,6 @@ A set of relevant screenshots
 ```
 
 4. It'll be reviewed, and go through standard review cycle if needed. Merges will go straight to master.
+
+
+_Disclaimer: All intellectual properties here are owned by Nintendo. All assets included are intended to be fair use_
