@@ -1,0 +1,22 @@
+{
+  "name": "smash-ultimate-assets",
+  "version": "0.0.1",
+  "description": "A set of community assets for Smash Ultimate",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcrd/smash-ultimate-assets.git"
+  },
+  "keywords": [
+    "smash",
+    "bros",
+    "ultimate",
+    "smash"
+  ],
+  "author": "Marc A Rudkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcrd/smash-ultimate-assets/issues"
+  },
+  "homepage": "https://github.com/marcrd/smash-ultimate-assets#readme"
+}
