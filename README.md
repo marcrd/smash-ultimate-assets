@@ -22,13 +22,14 @@ Some sort of description
 
 ### Screenshots
 
-A set of screenshots if relevant
+A set of relevant screenshots
 
 ### Changelog
 
 - A set of changes
 - Multilined
 - Per change
+
 ```
 
 4. It'll be reviewed, and go through standard review cycle if needed. Merges will go straight to master.
