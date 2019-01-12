@@ -9,8 +9,8 @@ Run `npm i smash-ultimate-assets`, clone or download the repository.
 ### Current Asset Support
 
 - [x] SVG and PNG stock icons
-- [ ] Character Portraits
-- [ ] Full Character Illustrations
+- [x] Character Portraits
+- [x] Full Character Illustrations
 - [ ] UI/Misc Assets
 
 ### TODO
