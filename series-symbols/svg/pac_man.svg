@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) by Toomai Glittershine for SmashWiki -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+		height="256" width="256"
+		viewBox="0 0 256 256">
+	<metadata id="metadata7">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path id="mainsymbolpath" style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+		d="m 128,36.375 c -35.477955,0 -66.246638,20.162361 -81.46875,49.65625 L 155.5,128 46.53125,169.96875 C 61.753362,199.46264 92.522045,219.625 128,219.625 c 50.60069,0 91.625,-41.02431 91.625,-91.625 0,-50.600686 -41.02431,-91.625 -91.625,-91.625 z"
+	/>
+</svg>
