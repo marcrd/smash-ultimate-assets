@@ -1,6 +1,6 @@
 {
   "name": "smash-ultimate-assets",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A set of community assets for Smash Ultimate",
   "main": "index.js",
   "repository": {
